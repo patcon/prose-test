@@ -1,0 +1,7 @@
+prose:
+  metadata:
+    _proposals:
+      - name: content
+        field:
+          element: textarea
+          value: testing!
